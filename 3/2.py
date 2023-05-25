@@ -7,3 +7,4 @@ print(list(set(repeated_list)))
 
 
 
+
